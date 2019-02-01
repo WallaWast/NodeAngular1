@@ -21,6 +21,9 @@
                     return this.current == i
                 }
             }
-        ]
+        ],
+        template: `
+        
+        `
     })
 })()
